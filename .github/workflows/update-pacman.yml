@@ -18,13 +18,22 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Create output directory if it doesn't exist
+      - name: Create output directory
         run: mkdir -p output
 
-      - name: Generate Pacman Graph
-        run: |
-          curl -s "https://github-stats.jstrieb.dev/api?user=Engel-s&theme=auto&format=svg" > output/pacman-contribution-graph.svg
-          curl -s "https://github-stats.jstrieb.dev/api?user=Engel-s&theme=dark&format=svg" > output/pacman-contribution-graph-dark.svg
+      - name: Generate GitHub Stats SVG
+        uses: AntoniosBarotsis/gh-stats@v1.1.1
+        with:
+          user: Engel-s
+          filename: output/pacman-contribution-graph.svg
+          theme: default
+
+      - name: Generate Dark Theme Stats SVG
+        uses: AntoniosBarotsis/gh-stats@v1.1.1
+        with:
+          user: Engel-s
+          filename: output/pacman-contribution-graph-dark.svg
+          theme: dark
 
       - name: Commit and Push changes
         run: |
