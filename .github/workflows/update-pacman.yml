@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-graph:
-    name: Generate and Update Pacman Graph
+    name: Generate Pacman Graph
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -18,27 +18,44 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
       - name: Create output directory
         run: mkdir -p output
 
-      - name: Generate GitHub Stats SVG
-        uses: AntoniosBarotsis/gh-stats@v1.1.1
-        with:
-          user: Engel-s
-          filename: output/pacman-contribution-graph.svg
-          theme: default
+      - name: Generate basic contribution graph
+        run: |
+          cat > output/pacman-contribution-graph.svg << 'EOF'
+          <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100">
+            <rect width="100%" height="100%" fill="#f0f0f0"/>
+            <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" fill="#333">
+              Gráfico de contribuciones de Engel-s
+            </text>
+            <text x="50%" y="70%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+              Actualizado: $(date +'%Y-%m-%d %H:%M:%S')
+            </text>
+          </svg>
+          EOF
 
-      - name: Generate Dark Theme Stats SVG
-        uses: AntoniosBarotsis/gh-stats@v1.1.1
-        with:
-          user: Engel-s
-          filename: output/pacman-contribution-graph-dark.svg
-          theme: dark
+          cat > output/pacman-contribution-graph-dark.svg << 'EOF'
+          <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100">
+            <rect width="100%" height="100%" fill="#1a1a1a"/>
+            <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" fill="#fff">
+              Gráfico de contribuciones de Engel-s
+            </text>
+            <text x="50%" y="70%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="12" fill="#ccc">
+              Actualizado: $(date +'%Y-%m-%d %H:%M:%S')
+            </text>
+          </svg>
+          EOF
 
-      - name: Commit and Push changes
+      - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add output/
-          git commit -m "Update pacman graphs" || echo "No changes to commit"
+          git commit -m "Update contribution graphs" || echo "No changes to commit"
           git push
