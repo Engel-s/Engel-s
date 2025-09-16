@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="right" height="140" src="https://media.tenor.com/vb3_OhKjihQAAAAi/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF-%E3%83%89%E3%83%83%E3%83%88.gif"  />
+<img align="right" height="140" src="[https://media.tenor.com/vb3_OhKjihQAAAAi/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF-%E3%83%89%E3%83%83%E3%83%88.gif](https://media.tenor.com/iczlyaJGBk8AAAAi/soul-eater-pixel-art.gif)"  />
 
 ###
 
