@@ -35,9 +35,7 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://open.spotify.com/user/Engel's CV">
-    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313i3lt3caqj4hyeksii3tozrwsi&unique={true|1|on|yes})"  />
-  </a>
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313i3lt3caqj4hyeksii3tozrwsi&unique={true|1|on|yes})
 </div>
 
 ###
