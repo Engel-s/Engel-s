@@ -35,11 +35,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph.svg">
-  <img alt="Engel's GitHub contribution graph" src="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph.svg">
-</picture>
+![Engel's GitHub Contributions](https://ghchart.rshah.org/Engel-s)
 
 ###
 
