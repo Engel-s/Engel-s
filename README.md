@@ -34,9 +34,15 @@
 
 <br clear="both">
 
-<div align="left">
-  [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=313i3lt3caqj4hyeksii3tozrwsi&unique=1)](https://open.spotify.com/user/313i3lt3caqj4hyeksii3tozrwsi)
-</div>
+## 🎵 My Spotify Playlist
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=313i8lt3caq4hyeksit3rozwsj&count=5&unique=true)](https://open.spotify.com/user/313i8lt3caq4hyeksit3rozwsj)
+
+###
+
+## 📈 My GitHub Activity
+
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Engel-s&theme=react-dark&hide_border=true&area=true)
 
 ###
 
