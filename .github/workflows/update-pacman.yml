@@ -1,61 +1,39 @@
-name: Update Pacman Graph
+name: Generate pacman animation
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
   workflow_dispatch:
 
+  push:
+    branches:
+    - main
+
 jobs:
-  update-graph:
-    name: Generate Pacman Graph
-    runs-on: ubuntu-latest
+  generate:
     permissions:
       contents: write
-    
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          python-version: '3.9'
-
-      - name: Create output directory
-        run: mkdir -p output
-
-      - name: Generate basic contribution graph
-        run: |
-          cat > output/pacman-contribution-graph.svg << 'EOF'
-          <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100">
-            <rect width="100%" height="100%" fill="#f0f0f0"/>
-            <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" fill="#333">
-              Gráfico de contribuciones de Engel-s
-            </text>
-            <text x="50%" y="70%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
-              Actualizado: $(date +'%Y-%m-%d %H:%M:%S')
-            </text>
-          </svg>
-          EOF
-
-          cat > output/pacman-contribution-graph-dark.svg << 'EOF'
-          <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100">
-            <rect width="100%" height="100%" fill="#1a1a1a"/>
-            <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" fill="#fff">
-              Gráfico de contribuciones de Engel-s
-            </text>
-            <text x="50%" y="70%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="12" fill="#ccc">
-              Actualizado: $(date +'%Y-%m-%d %H:%M:%S')
-            </text>
-          </svg>
-          EOF
-
-      - name: Commit and Push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output/
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+Github
+Donate
+Share
+Privacy Policy
           git commit -m "Update contribution graphs" || echo "No changes to commit"
           git push
