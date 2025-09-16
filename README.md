@@ -33,10 +33,11 @@
 ###
 
 <br clear="both">
-
-## 
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=313i3li3caqj4hyeksii3tozrwsi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313i3li3caqj4hyeksii3tozrwsi&redirect=true)
+<div align="left">
+  <a href="https://open.spotify.com/user/Engel's CV">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Engel's%20CV&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
