@@ -31,10 +31,7 @@
 </div>
 
 ###
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313i3lt3caqj4hyeksii3tozrwsi)
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/313i3lt3caqj4hyeksii3tozrwsi)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313i3lt3caqj4hyeksii3tozrwsi&count=3)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313i3lt3caqj4hyeksii3tozrwsi&width=600)
 
 ###
 
