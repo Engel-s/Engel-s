@@ -1,0 +1,28 @@
+name: Update Pacman Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta diariamente a medianoche
+  workflow_dispatch: # Permite ejecución manual
+
+jobs:
+  update-readme:
+    name: Update Pacman Graph
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman Graph
+        uses: jstrieb/github-stats@master
+        with:
+          include_username: Engel-s 
+          output_file: output/pacman-contribution-graph.svg
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/pacman-contribution-graph.svg
+          git commit -m "Update pacman graph" || echo "No changes to commit"
+          git push
