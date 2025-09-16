@@ -31,9 +31,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-Github
-Donate
-Share
-Privacy Policy
-          git commit -m "Update contribution graphs" || echo "No changes to commit"
-          git push
