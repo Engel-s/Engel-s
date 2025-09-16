@@ -34,8 +34,11 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313i3lt3caqj4hyeksii3tozrwsi&count=3)
 
 ###
-
-![Engel's GitHub Contributions](https://ghchart.rshah.org/Engel-s)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph.svg">
+  <img alt="Engel's animated Pacman contribution graph" src="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
