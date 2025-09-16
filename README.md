@@ -34,9 +34,9 @@
 
 <br clear="both">
 
-## 🎵 My Spotify Playlist
+## 
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=313i8lt3caq4hyeksit3rozwsj&count=5&unique=true)](https://open.spotify.com/user/313i8lt3caq4hyeksit3rozwsj)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=313i3li3caqj4hyeksii3tozrwsi&count=3&width=400)](https://open.spotify.com/user/313i3li3caqj4hyeksii3tozrwsi)
 
 ###
 
