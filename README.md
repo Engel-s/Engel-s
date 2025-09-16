@@ -40,12 +40,6 @@
 
 ###
 
-## 📈 My GitHub Activity
-
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Engel-s&theme=react-dark&hide_border=true&area=true)
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph.svg">
