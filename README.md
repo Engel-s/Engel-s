@@ -35,7 +35,7 @@
 <br clear="both">
 
 <div align="left">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313i3lt3caqj4hyeksii3tozrwsi&unique={true|1|on|yes})
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313i3lt3caqj4hyeksii3tozrwsi&width={width})
 </div>
 
 ###
