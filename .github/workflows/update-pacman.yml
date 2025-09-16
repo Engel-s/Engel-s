@@ -2,12 +2,12 @@ name: Update Pacman Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Ejecuta diariamente a medianoche
-  workflow_dispatch: # Permite ejecución manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-graph:
-    name: Update Pacman Graph
+    name: Generate and Update Pacman Graph
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -18,19 +18,13 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Pacman Graph
-        uses: jstrieb/github-stats@master
-        with:
-          username: Engel-s
-          output_file: output/pacman-contribution-graph.svg
-          theme: auto  # Para generar ambos temas claro/oscuro
+      - name: Create output directory if it doesn't exist
+        run: mkdir -p output
 
-      - name: Generate Dark Theme Pacman Graph
-        uses: jstrieb/github-stats@master
-        with:
-          username: Engel-s
-          output_file: output/pacman-contribution-graph-dark.svg
-          theme: dark
+      - name: Generate Pacman Graph
+        run: |
+          curl -s "https://github-stats.jstrieb.dev/api?user=Engel-s&theme=auto&format=svg" > output/pacman-contribution-graph.svg
+          curl -s "https://github-stats.jstrieb.dev/api?user=Engel-s&theme=dark&format=svg" > output/pacman-contribution-graph-dark.svg
 
       - name: Commit and Push changes
         run: |
