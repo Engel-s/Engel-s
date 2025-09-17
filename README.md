@@ -1,6 +1,4 @@
-<br clear="both">
-
-<h3 align="left">👋 Hello, welcome to my GitHub!<br><br>I'm Engel Chavarría, a passionate software developer who loves building efficient and creative solutions with technology. 🚀</h3>
+<h2 align="left">👋 Hello!<br><br>I'm Engel Chavarría, a passionate software developer who loves building efficient and creative solutions with technology. 🚀</h2>
 
 ###
 
