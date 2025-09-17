@@ -1,15 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
-  <!-- Fondo transparente -->
-  <rect width="1200" height="300" fill="black"/>
-
-  <!-- Texto línea por línea -->
-  <text x="20" y="60" font-family="Courier New, monospace" font-size="28" fill="#ffffff">
-    👋 Hello!
-  </text>
-  <text x="20" y="120" font-family="Courier New, monospace" font-size="22" fill="#ffffff">
-    I'm Engel Chavarria, a passionate software developer
-  </text>
-  <text x="20" y="180" font-family="Courier New, monospace" font-size="22" fill="#ffffff">
-    Who loves building efficient and creative solutions with technology 🚀
-  </text>
+  <style>
+    text {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 28px;
+      fill: #4B0082;
+    }
+    .line {
+      opacity: 0;
+      animation: fadeIn 2s forwards;
+    }
+    .line2 {
+      opacity: 0;
+      animation: fadeIn 2s forwards 2s;
+    }
+    .line3 {
+      opacity: 0;
+      animation: fadeIn 2s forwards 4s;
+    }
+  </style>
+  <text x="20" y="60" class="line">👋 Hello!</text>
+  <text x="20" y="120" class="line2">I'm Engel Chavarria, a passionate software developer</text>
+  <text x="20" y="180" class="line3">Who loves building efficient and creative solutions with technology 🚀</text>
+  <style>
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+  </style>
 </svg>
