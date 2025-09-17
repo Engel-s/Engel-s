@@ -1,5 +1,14 @@
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=5000&pause=500&color=ffffff&width=1000&lines=👋+Hello!+I'm+Engel+Chavarria,+a+passionate+software+developer+who+loves+building+efficient+and+creative+solutions+with+technology.+🚀" alt="Typing Animation" />
+  <!-- Línea 1 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=3000&pause=500&color=ffffff&width=600&lines=%F0%9F%91%8B+Hello!" alt="Hello Animation" />
+
+  <!-- Línea 2 -->
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=4000&pause=500&color=ffffff&width=900&lines=I'm+Engel+Chavarria,+a+passionate+software+developer" alt="Engel Chavarria Animation" />
+
+  <!-- Línea 3 -->
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=5000&pause=500&color=ffffff&width=1000&lines=Who+loves+building+efficient+and+creative+solutions+with+technology+%F0%9F%9A%80" alt="Tech Animation" />
 </h2>
 
 ###
