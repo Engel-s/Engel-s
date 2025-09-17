@@ -1,5 +1,5 @@
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=4B0082&width=1000&lines=👋+Hello!+I'm+Engel+Chavarría,+a+passionate+software+developer+who+loves+building+efficient+and+creative+solutions+with+technology.+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=5000&pause=1000&color=4B0082&center=false&vCenter=true&width=1200&lines=👋+Hello!+I'm+Engel+Chavarría,+a+passionate+software+developer+who+loves+building+efficient+and+creative+solutions+with+technology.+🚀" alt="Engel Chavarría Animation" />
 </h2>
 
 ###
