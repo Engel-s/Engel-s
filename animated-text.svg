@@ -1,30 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
   <style>
     text {
-      font-family: 'Orbitron', sans-serif;
+      font-family: 'Courier New', monospace;
       font-size: 28px;
-      fill: #4B0082;
+      fill: #ffffff;
     }
-    .line {
+    .line { opacity: 0; animation: fadeIn 2s forwards; }
+    .line2 { opacity: 0; animation: fadeIn 2s forwards 2s; }
+    .line3 { opacity: 0; animation: fadeIn 2s forwards 4s; }
+    @keyframes fadeIn { to { opacity: 1; } }
+
+    .star {
+      fill: white;
       opacity: 0;
-      animation: fadeIn 2s forwards;
+      animation: twinkle 3s infinite;
     }
-    .line2 {
-      opacity: 0;
-      animation: fadeIn 2s forwards 2s;
-    }
-    .line3 {
-      opacity: 0;
-      animation: fadeIn 2s forwards 4s;
+    @keyframes twinkle {
+      0%, 100% { opacity: 0; }
+      50% { opacity: 1; }
     }
   </style>
+
+  <!-- Texto -->
   <text x="20" y="60" class="line">👋 Hello!</text>
   <text x="20" y="120" class="line2">I'm Engel Chavarria, a passionate software developer</text>
   <text x="20" y="180" class="line3">Who loves building efficient and creative solutions with technology 🚀</text>
-  <style>
-    @keyframes fadeIn {
-      to { opacity: 1; }
-    }
-  </style>
+
+  <!-- Estrellas -->
+  <circle cx="200" cy="40" r="2" class="star" style="animation-delay:0s"/>
+  <circle cx="400" cy="80" r="2" class="star" style="animation-delay:1s"/>
+  <circle cx="600" cy="20" r="2" class="star" style="animation-delay:2s"/>
+  <circle cx="800" cy="100" r="2" class="star" style="animation-delay:1.5s"/>
+  <circle cx="1000" cy="60" r="2" class="star" style="animation-delay:2.5s"/>
+  <circle cx="300" cy="200" r="2" class="star" style="animation-delay:0.5s"/>
+  <circle cx="700" cy="250" r="2" class="star" style="animation-delay:2s"/>
 </svg>
 
