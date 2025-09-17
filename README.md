@@ -1,5 +1,5 @@
 <h2 align="left">
-  <img src="https://raw.githubusercontent.com/Engel-s/Engel-s/main/animated-text.svg" alt="Animated Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=5000&pause=500&color=ffffff&width=1000&lines=👋+Hello!+I'm+Engel+Chavarria,+a+passionate+software+developer+who+loves+building+efficient+and+creative+solutions+with+technology.+🚀" alt="Typing Animation" />
 </h2>
 
 ###
