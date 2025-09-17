@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/Engel-s/Engel-s/main/animated-text.svg" alt="Animated Text" />
 </h2>
 
-
 ###
 
 <br clear="both">
