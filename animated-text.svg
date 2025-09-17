@@ -8,16 +8,20 @@
     .line { opacity: 0; animation: fadeIn 2s forwards; }
     .line2 { opacity: 0; animation: fadeIn 2s forwards 2s; }
     .line3 { opacity: 0; animation: fadeIn 2s forwards 4s; }
+
     @keyframes fadeIn { to { opacity: 1; } }
 
     .star {
       fill: white;
-      opacity: 0;
-      animation: twinkle 3s infinite;
+      opacity: 0.8;
+      animation: fall 5s linear infinite;
     }
-    @keyframes twinkle {
-      0%, 100% { opacity: 0; }
-      50% { opacity: 1; }
+
+    @keyframes fall {
+      0%   { transform: translateY(-20px); opacity: 0; }
+      10%  { opacity: 1; }
+      90%  { opacity: 1; }
+      100% { transform: translateY(320px); opacity: 0; }
     }
   </style>
 
@@ -26,13 +30,13 @@
   <text x="20" y="120" class="line2">I'm Engel Chavarria, a passionate software developer</text>
   <text x="20" y="180" class="line3">Who loves building efficient and creative solutions with technology 🚀</text>
 
-  <!-- Estrellas -->
-  <circle cx="200" cy="40" r="2" class="star" style="animation-delay:0s"/>
-  <circle cx="400" cy="80" r="2" class="star" style="animation-delay:1s"/>
-  <circle cx="600" cy="20" r="2" class="star" style="animation-delay:2s"/>
-  <circle cx="800" cy="100" r="2" class="star" style="animation-delay:1.5s"/>
-  <circle cx="1000" cy="60" r="2" class="star" style="animation-delay:2.5s"/>
-  <circle cx="300" cy="200" r="2" class="star" style="animation-delay:0.5s"/>
-  <circle cx="700" cy="250" r="2" class="star" style="animation-delay:2s"/>
+  <!-- Estrellas cayendo -->
+  <circle cx="200" cy="0" r="2" class="star" style="animation-delay:0s"/>
+  <circle cx="400" cy="0" r="2" class="star" style="animation-delay:1s"/>
+  <circle cx="600" cy="0" r="2" class="star" style="animation-delay:2s"/>
+  <circle cx="800" cy="0" r="2" class="star" style="animation-delay:3s"/>
+  <circle cx="1000" cy="0" r="2" class="star" style="animation-delay:4s"/>
+  <circle cx="300" cy="0" r="2" class="star" style="animation-delay:2.5s"/>
+  <circle cx="700" cy="0" r="2" class="star" style="animation-delay:1.5s"/>
+  <circle cx="1100" cy="0" r="2" class="star" style="animation-delay:0.7s"/>
 </svg>
-
