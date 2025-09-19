@@ -30,7 +30,7 @@
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://media0.giphy.com/media/HAuib0meFjHV22ynvi/giphy.gif">
+  <img align="center" alt="Coding" width="450" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 </td>
 </tr>
 </table>
