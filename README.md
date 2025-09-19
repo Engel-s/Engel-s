@@ -24,13 +24,20 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+🎓 Soy estudiante universitario de **Ingeniería en Sistemas**, apasionado por la tecnología y el desarrollo de software.  
 
-🎓 Estudiante de **Ingeniería en Sistemas**  
 💻 Experiencia en:  
 - 🌐 **Frontend:** HTML, CSS, JavaScript  
-- 📚 Aprendiendo: C#, Bootstrap, SQL  
+- 🛠️ **Herramientas:** Git, Visual Studio Code, Visual Studio  
+- 🗄️ **Bases de datos:** SQL Server  
 
-🚀 Objetivo: Convertirme en **desarrollador fullstack** y seguir creando proyectos que mezclen creatividad con tecnología.  
+📚 Actualmente aprendiendo:  
+- 🔹 **C#**  
+- 🔹 **Bootstrap**  
+- 🔹 **SQL avanzado**  
+
+🚀 Mi objetivo es convertirme en **desarrollador fullstack** y seguir creando proyectos innovadores que generen impacto.  
+
 
 
 </td>
