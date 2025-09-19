@@ -45,7 +45,8 @@
 
 <br clear="both">
 
-[![Engel-s github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/UjwalKandi?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=6&theme=blue-green)](https://github.com/UjwalKandi)
+[![Engel's github stats](https://github-readme-stats.vercel.app/api?username=Engel-s&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/Engel-s?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engel-s&layout=compact&langs_count=6&theme=blue-green)](https://github.com/Engel-s)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph-dark.svg">
