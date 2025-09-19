@@ -43,6 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+[![Ujwal Kandi's github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/UjwalKandi?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=6&theme=blue-green)](https://github.com/UjwalKandi)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph.svg">
