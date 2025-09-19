@@ -18,6 +18,28 @@
 ###
 
 <br clear="both">
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+🎓 Estudiante de **Ingeniería en Sistemas**  
+💻 Experiencia en:  
+- 🌐 **Frontend:** HTML, CSS, JavaScript  
+- 📚 Aprendiendo: C#, Bootstrap, SQL  
+
+🚀 Objetivo: Convertirme en **desarrollador fullstack** y seguir creando proyectos que mezclen creatividad con tecnología.  
+
+
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</td>
+</tr>
+</table>
+
+<br clear="both">
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
