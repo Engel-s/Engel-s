@@ -29,8 +29,8 @@
   
 💻 Experiencia en:  
 - 🌐 **Frontend:** HTML, CSS, JavaScript  
-- 🛠️ **Herramientas:** Git, Visual Studio Code, Visual Studio  
-- 🗄️ **Bases de datos:** SQL Server  
+- 🛠️ **Herramientas:** Git, Visual Studio Code, Visual Studio, SQL Server
+- 🗄️ **Bases de datos:** SQL
 
 📚 Actualmente aprendiendo:  
 - 🔹 **C#**  
