@@ -24,8 +24,9 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-🎓 Soy estudiante universitario de **Ingeniería en Sistemas**, apasionado por la tecnología y el desarrollo de software.  
-
+  
+🎓 Soy estudiante universitario de **Ingeniería en Sistemas** , apasionado por la tecnología y el desarrollo de software.  
+  
 💻 Experiencia en:  
 - 🌐 **Frontend:** HTML, CSS, JavaScript  
 - 🛠️ **Herramientas:** Git, Visual Studio Code, Visual Studio  
