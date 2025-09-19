@@ -44,8 +44,10 @@
 </div>
 
 <br clear="both">
+[![Engel's github stats](https://github-readme-stats.vercel.app/api?username=Engel-s&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&include_all_commits=true)](https://github.com/Engel-s?tab=repositories)<!-- WakaTime Stats -->
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=engels_cv&theme=gruvbox&layout=compact)](https://wakatime.com/@engels_cv)
 
-[![Engel's github stats](https://github-readme-stats.vercel.app/api?username=Engel-s&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/Engel-s?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engel-s&layout=compact&langs_count=6&theme=blue-green)](https://github.com/Engel-s)
+
 
 
 <picture>
