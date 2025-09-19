@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome!;I'm+Null3000.;I'm+a+system+engineering+student..;passionate+about+software+development!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome!;I'm+Engel+Chavarria.;I'm+a+system+engineering+student..;passionate+about+software+development!)](https://git.io/typing-svg)
 
 ###
 
