@@ -1,3 +1,5 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 <h2 align="left">
   <!-- Línea 1 -->
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=3000&pause=500&color=ffffff&width=600&lines=%F0%9F%91%8B+Hello!" alt="Hello Animation" />
