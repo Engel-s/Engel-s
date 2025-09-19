@@ -47,8 +47,6 @@
 [![Engel's github stats](https://github-readme-stats.vercel.app/api?username=Engel-s&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&include_all_commits=true)](https://github.com/Engel-s?tab=repositories)
 
 
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph.svg">
