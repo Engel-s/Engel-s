@@ -15,14 +15,15 @@
 🎓 Soy estudiante universitario de **Ingeniería en Sistemas** , apasionado por la tecnología y el desarrollo de software.  
   
 💻 Experiencia en:  
-- 🌐 **Frontend:** HTML, CSS, JavaScript  
+- 🌐 **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- 💻 **Backend:** C#
 - 🛠️ **Herramientas:** Git, Visual Studio Code, Visual Studio, SQL Server
 - 🗄️ **Bases de datos:** SQL
 
 📚 Actualmente aprendiendo:  
-- 🔹 **C#**  
-- 🔹 **Bootstrap**  
-- 🔹 **SQL avanzado**  
+- 🔹 **Php**  
+- 🔹 **Laravel,MaryUI**  
+- 🔹 **MySql**  
 
 🚀 Mi objetivo es convertirme en **desarrollador fullstack** y seguir creando proyectos innovadores que generen impacto.  
 
