@@ -65,10 +65,9 @@
 
 <br clear="both">
 
-[![Engel's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Engel-s&show_icons=true&theme=blue-green)](https://github.com/Engel-s)
+[![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Engel-s&show_icons=true&theme=blue-green)](https://github.com/Engel-s)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Engel-s&layout=compact&theme=blue-green)](https://github.com/Engel-s)
-
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Engel-s&layout=compact&theme=blue-green)](https://github.com/Engel-s)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph-dark.svg">
