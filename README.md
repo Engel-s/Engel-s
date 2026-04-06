@@ -31,7 +31,7 @@
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU0OTg0ODQsIm5iZiI6MTc3NTQ5ODE4NCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA2VDE3NTYyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczNmYzNmI0YmE2MTI2Yzk4NzMxNjdhYjUzY2IxN2Y1YWIzOGJjODFjOTE3NDZhMGFlNDFhZjkwOGZiYTVmMTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LWtl6O19bdAZWm0cR-rVAwBwtN4LT3rLsxgFc_WC3f8">
+  <img align="center" alt="Coding" width="450" src="https://media.tenor.com/uMLDXISQdmkAAAAm/bow-waiting.webp">
 </td>
 </tr>
 </table>
