@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJqaXdnank5cGZveXFvcW9jNW5qbmh3cW42dXBxanQ1OXk5eGUwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D9aSh4ymC0l7fCVLtg/giphy.gif" width="200"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&center=true&width=600&lines=Welcome!;I'm+Engel+Chavarria;I'm+a+Systems+Engineering+student;Passionate+about+software+development!;¡Hola!;Soy+Engel+Chavarria;Estudiante+de+Ingeniería+en+Sistemas;Apasionado+por+el+desarrollo+de+software!)](https://git.io/typing-svg)
