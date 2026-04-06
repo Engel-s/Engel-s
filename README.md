@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamM5ZGN5aHlpbnU5NjMxYzFuenBrcmhrZjR0eGxzMTFqd2ltODJxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4dsdIExLHeiPFm/giphy.gif" width="200"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU0OTg0ODQsIm5iZiI6MTc3NTQ5ODE4NCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA2VDE3NTYyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWViZjE3ZTYwMWRkOGJmOWI3ZjFmODk3YmJkN2I1YTlkMWQxMGQxODg0N2M1MWJiM2ZhYmZkNmY1NTE0MWY3OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.L8X1SIeVusHz8CguDk8TvGsfx3BOAxRCqKNB_I1F0fM" width="200"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&center=true&width=600&lines=Welcome!;I'm+Engel+Chavarria;I'm+a+Systems+Engineering+student;Passionate+about+software+development!;¡Hola!;Soy+Engel+Chavarria;Estudiante+de+Ingeniería+en+Sistemas;Apasionado+por+el+desarrollo+de+software!)](https://git.io/typing-svg)
