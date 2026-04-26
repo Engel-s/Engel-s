@@ -79,7 +79,7 @@
 <div align="left">
   <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
   
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+  <a href="www.linkedin.com/in/engel-chavarría-100734404" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   
