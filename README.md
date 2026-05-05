@@ -31,7 +31,7 @@
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://media.tenor.com/uMLDXISQdmkAAAAm/bow-waiting.webp">
+  <img align="center" alt="Coding" width="450" src="[https://media.tenor.com/uMLDXISQdmkAAAAm/bow-waiting.webp](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVidTdxaWs2cm05eGV5eHdwZnNhNWpoNml3Y2h6ODRnYWdqMzFrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hv0QNfaCiiXSj4bwgK/giphy.gif)">
 </td>
 </tr>
 </table>
