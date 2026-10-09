@@ -11,23 +11,12 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
-🎓 Soy estudiante universitario de **Ingeniería en Sistemas** , apasionado por la tecnología y el desarrollo de software.  
-  
-💻 Experiencia en:  
-- 🌐 **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- 💻 **Backend:** C#
-- 🛠️ **Herramientas:** Git, Visual Studio Code, Visual Studio, SQL Server
-- 🗄️ **Bases de datos:** SQL
 
-📚 Actualmente aprendiendo:  
-- 🔹 **Php**  
-- 🔹 **Laravel,MaryUI**  
-- 🔹 **MySql**  
+🎓 Soy estudiante universitario de **Ingeniería en Sistemas**, apasionado por la tecnología, la innovación y el desarrollo de software.  
 
-🚀 Mi objetivo es convertirme en **desarrollador fullstack** y seguir creando proyectos innovadores que generen impacto.  
+💻 Cuento con conocimientos y experiencia en el desarrollo de aplicaciones web y móviles, gestión de bases de datos y herramientas de desarrollo moderno, abarcando tecnologías **Frontend, Backend y DevOps**.
 
-
+🚀 Mi objetivo es seguir creciendo profesionalmente, fortalecer mis habilidades como **Desarrollador Fullstack** y colaborar en proyectos desafiantes que generen un impacto positivo.
 
 </td>
 <td width="50%" align="center">
@@ -40,11 +29,10 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
-
-
 <div align="left">
   <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> </h2>
 
+  <!-- Frontend & Frameworks Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
 
@@ -54,6 +42,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="astro logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+
+  <!-- Backend & Lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
 
@@ -63,15 +61,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
-  <img width="12" />
-
   <img src="https://img.shields.io/badge/maryUI-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="40" alt="maryUI logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <!-- Móvil & DevOps / Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+
+  <!-- Bases de datos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
 
@@ -81,6 +81,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
   <img width="12" />
 
+  <!-- Herramientas y Entornos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
 
@@ -99,7 +100,7 @@
 
 <br clear="both">
 
-[![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Engel-s&show_icons=true&theme=blue-green)](https://github.com/Engel-s)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Engel-s&layout=compact&theme=blue-green)](https://github.com/Engel-s)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Engel-s&show_icons=true&theme=blue-green)](https://github.com/Engel-s)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engel-s&layout=compact&theme=blue-green)](https://github.com/Engel-s)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Engel-s/Engel-s/output/pacman-contribution-graph-dark.svg">
@@ -111,19 +112,16 @@
 
 <div align="left">
   <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-  
-  <a href="www.linkedin.com/in/engel-chavarría-100734404" target="_blank">
+
+  <a href="https://www.linkedin.com/in/engel-chavarr%C3%ADa-100734404" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  
+
   <a href="mailto:chavarriaengel97@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  
+
   <a href="https://www.instagram.com/engels_cv26?igsh=aWNncTRqOGl0MDQz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
-
-
-###
